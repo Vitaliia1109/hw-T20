@@ -1,0 +1,28 @@
+.input {
+  border: 2px solid teal;
+  border-radius: 6px;
+  color: teal;
+  padding: 5px;
+  margin-right: 30px;
+  font-size: 20px;
+  height: 35px;
+}
+
+.button {
+  border: 2px solid teal;
+  border-radius: 6px;
+  background-color: teal;
+  color: white;
+  min-height: 40px;
+  min-width: 100px;
+  font-size: 20px;
+}
+
+.button:hover {
+  background-color: midnightblue;
+  color: white;
+}
+
+.title {
+  color: teal;
+}

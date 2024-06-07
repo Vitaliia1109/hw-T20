@@ -1,0 +1,28 @@
+.header {
+  min-height: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  background-color: lightcyan;
+  margin-bottom: 50px;
+}
+
+.nav-bar-ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  list-style: none;
+}
+
+.link {
+  color: teal;
+  text-decoration: none;
+}
+
+.link:hover,
+.link:focus {
+  color: midnightblue;
+}
